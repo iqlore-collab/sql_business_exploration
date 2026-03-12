@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tomasz Szymusiak
+# 👋 Hi, I’m Tomasz Szmusiak
 
 👀 I’m passionate about leveraging data to uncover insights that support well-informed decision-making.
 
