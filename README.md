@@ -28,9 +28,9 @@
 
 ---
 
-## 📝 My Articles
+## 📝 My Portfolio
 I write articles about data and analytics on Medium:  
-https:
+[https:](https://docs.google.com/presentation/d/e/2PACX-1vQHbUXJ1b3hwDTxADBwYZN4ixvTYXwduuWF-y3GNW2oYR6qyqfAxu55D-FDRDgsFw_ApSAyXc6xrR_M/pub?start=false&loop=false&delayms=3000&slide=id.gc6fa3c898_0_0)
 
 ---
 
